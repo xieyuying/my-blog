@@ -1,1 +1,1 @@
-# my-bolg
+# my-blog
